@@ -29,6 +29,7 @@ body > div {
     cursor: pointer;
     min-width: 120px;
     transition: opacity 0.2s ease;
+    user-select: none;
 }
 .btn--size-s {
     padding: 8px 32px;
